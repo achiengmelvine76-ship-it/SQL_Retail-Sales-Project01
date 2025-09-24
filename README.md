@@ -1,1 +1,1 @@
-# SQL_Retail-Sales-Project01
+# SQL_Retail_Sales_Project01
